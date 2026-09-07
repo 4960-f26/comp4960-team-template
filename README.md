@@ -2,7 +2,7 @@
 
 > COMP-4960 Software Engineering — Fall 2026 · Wentworth Institute of Technology · Dr. Memo Ergezer
 
-This is the starter template every team repository is created from. It gives you the governance files, a CI stub, and a home for your architecture decisions — **not** a prescribed application structure. Build your project (FastAPI, Streamlit, or your approved stack) on top of it.
+This is the starter template every team repository is created from. It gives you the governance files, a CI stub, and a home for your architecture decisions. This is **not** a prescribed application structure. Build your project (FastAPI, Streamlit, or your approved stack) on top of it.
 
 ## What's here
 
