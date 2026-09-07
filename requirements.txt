@@ -1,0 +1,10 @@
+# COMP-4960 team project — Python dependencies.
+# Starts minimal; add your project's stack below (pin versions when you can).
+# Examples, depending on your pathway:
+#   fastapi
+#   uvicorn[standard]
+#   sqlalchemy
+#   streamlit
+
+pytest
+ruff
