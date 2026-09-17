@@ -31,6 +31,61 @@ What is due today?
 - One recorded Keep, Stop, or Try action.
 - Evidence of each member’s visible contribution for the possible individual studio check.
 
+## Part 4: Issues to GitHub
+
+### Tracked discovery work
+
+Create one GitHub issue for each unresolved question, evidence need, or follow-up. Use an action-oriented title such as:
+
+- Investigate how referral coordinators identify overdue referrals
+- Confirm what information is required before submitting a referral
+- Ask how patients currently learn a referral’s status
+- Verify a fallback when an external system is unavailable
+
+For each issue, copy and complete this structure:
+
+#### What we need to learn or do
+
+[State one specific question, evidence need, or follow-up.]
+
+#### Linked assumption
+
+[Assumption ID and short description.]
+
+#### Why it matters
+
+[What decision about scope, priority, feasibility, or safety could change?]
+
+#### Evidence or answer needed
+
+[What would be sufficient to resolve this issue?]
+
+#### Owner and next step
+
+@[username] will [specific next action].
+
+#### Done when
+
+[Observable condition for closing the issue.] 
+
+Index:
+| Assumption | GitHub issue | Owner | Status |
+|---|---|---|---|
+| A1 | #__ | @username | Open |
+| A2 | #__ | @username | Open |
+
+
+### Example cycle:
+1. Start with an assumption.
+2. Identify the unresolved question.
+3. Create the issue.
+4. Apply the discovery label.
+5. Assign an owner.
+6. Add it to the board’s Backlog.
+7. Link the issue number from DISCOVERY.md.
+
+Avoid issue titles such as “Question 1,” “Research,” or “Do discovery”;
+
 ## Part 5: Sibling review
 The workflow should be:
 1. Each team opens its own DISCOVERY.md draft and gives the two-minute briefing.
