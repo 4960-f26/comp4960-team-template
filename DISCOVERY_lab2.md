@@ -1,3 +1,4 @@
+## Part 2: Assumption cards
 “Assumption cards” are just a structured way to capture claims the team is relying on but has not yet verified. 
 
 Use this format for each card:
@@ -29,3 +30,29 @@ What is due today?
 - The sibling team’s challenge.
 - One recorded Keep, Stop, or Try action.
 - Evidence of each member’s visible contribution for the possible individual studio check.
+
+## Part 5: Sibling review
+The workflow should be:
+1. Each team opens its own DISCOVERY.md draft and gives the two-minute briefing.
+2. The assigned sibling team listens and gives one advisory challenge.
+3. The receiving team records that challenge in its own DISCOVERY.md or links a GitHub issue created from it.
+4. The receiving team decides whether to act on the feedback.
+
+Add a Sibling review to markdown:
+```
+## Sibling review
+- Reviewer team:
+- Challenge received:
+- Assumption, stakeholder, or dependency affected:
+- Team response: Adopt / Investigate / Decline
+- Resulting change or GitHub issue:
+```
+
+Then, right below it:
+```
+## Team retro
+- Keep:
+- Stop:
+- Try:
+- Action for the next lab:
+```
