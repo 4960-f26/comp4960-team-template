@@ -32,6 +32,7 @@ What is due today?
 - Evidence of each member’s visible contribution for the possible individual studio check.
 
 ## Part 4: Issues to GitHub
+See: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
 
 ### Tracked discovery work
 
